@@ -1,11 +1,11 @@
 # 概要
 Promise と async/await の使い方  
 
-[Promise 参考１](https://www.sejuku.net/blog/52314){:target="_blank"}
+[Promise 参考１](https://www.sejuku.net/blog/52314)
 
-[Promise 参考２](https://www.sejuku.net/blog/76485){:target="_blank"}
+[Promise 参考２](https://www.sejuku.net/blog/76485)
 
-[async/await 参考１](https://www.sejuku.net/blog/69618){:target="_blank"}
+[async/await 参考１](https://www.sejuku.net/blog/69618)
 
 # ファイルの説明
 - index.js  
