@@ -9,12 +9,7 @@ Promise と async/await の使い方
 
 # ファイルの説明
 - index.js  
-Promise を使ったプログラム
+Promise.then() を使ったプログラム
 
 - index2.js  
 async/await を使ったプログラム
-
-# 実行方法
-```
-node index.js
-```
